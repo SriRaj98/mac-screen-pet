@@ -1,0 +1,21 @@
+# OS X
+.DS_Store
+
+# Build results
+build/
+.build/
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+
+# Swift Package Manager
+Packages/
+Package.pins
+Package.resolved
+.swiftpm/
+
+# User-specific
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
